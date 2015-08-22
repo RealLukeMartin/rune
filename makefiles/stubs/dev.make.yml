@@ -9,5 +9,5 @@ projects:
     type: profile
     subdir: ~
     download:
-      url: https://github.com/poetic/rune.git
+      url: https://github.com/RealLukeMartin/rune.git
       working-copy: true
